@@ -9,7 +9,7 @@ function leetcode(link, sciHubDomain) {
 function newTableetcode(tab, link) {
   // Tab is the current tab and link is the link to append Leetcode.io
   chrome.storage.sync.get({
-    domain: 'Leetcode.tw' // Updated default domain ( As of DEC 03 - 2017 )
+    domain: 'Leetcode.com' // Updated default domain ( As of DEC 03 - 2017 )
   }, function(items) {
     chrome.tabs.query({
         active: true

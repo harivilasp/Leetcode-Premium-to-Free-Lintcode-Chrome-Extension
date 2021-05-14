@@ -1,7 +1,7 @@
 function leetcode(link, sciHubDomain) {
   // Use the link to search on Leetcode
   link=link.replace("problems","problem");
-  link=link.replace("leetcode.com","lintcode.com");
+  link=link.replace("leetcode.com","www.lintcode.com");
   // console.log(link);
   return link;
 }

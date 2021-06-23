@@ -1,6 +1,7 @@
 Leetcode-to-Lintcode
 ==========
-
+Can Access Leetcode Premium on Lintcode freely
+<br>
 Chrome extension that passes URLs to Leetcode and mapping to Lintcode, allowing free access to premium questions.
 <br>
 This only for educational and personal use purpose.
